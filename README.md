@@ -1,6 +1,6 @@
 # Hands-On Financial Trading with Python
 
-<a href="https://www.packtpub.com/product/hands-on-financial-trading-with-python/9781838982881?utm_source=github&utm_medium=repository&utm_campaign=9781838982881"><img src="https://static.packt-cdn.com/products/9781838982881/cover/smaller" alt="Azure Data Engineering Cookbook" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/hands-on-financial-trading-with-python/9781838982881?utm_source=github&utm_medium=repository&utm_campaign=9781838982881"><img src="https://static.packt-cdn.com/products/9781838982881/cover/smaller" alt="Hands-On Financial Trading with Python" height="256px" align="right"></a>
 
 This is the code repository for [Hands-On Financial Trading with Python](https://www.packtpub.com/product/hands-on-financial-trading-with-python/9781838982881?utm_source=github&utm_medium=repository&utm_campaign=9781838982881), published by Packt.
 
