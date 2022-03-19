@@ -196,7 +196,6 @@ dependencies:
     - jupyterlab-widgets==1.0.0
     - jupyterthemes==0.20.0
     - kaleido==0.1.0.post1
-    - lckr-jupyterlab-variableinspector==3.0.2
     - lesscpy==0.14.0
     - lz4==3.1.1
     - mistune==0.8.4
