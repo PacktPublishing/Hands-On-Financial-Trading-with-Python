@@ -70,3 +70,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 **Sourav Ghosh** has worked in several proprietary high-frequency algorithmic trading firms over the last decade. He has built and deployed extremely low-latency, highthroughput automated trading systems for trading exchanges around the world, across multiple asset classes. He specializes in statistical arbitrage market-making and pairs trading strategies for the most liquid global futures contracts. He works as a senior quantitative developer at a trading firm in Chicago. He holds a master's in computer science from the University of Southern California. His areas of interest include computer architecture, FinTech, probability theory and stochastic processes, statistical learning and inference methods, and natural language processing
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838982881">https://packt.link/free-ebook/9781838982881 </a> </p>
